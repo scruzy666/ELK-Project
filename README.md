@@ -4,7 +4,7 @@ SMU Project One - September 2021 CyberSecurity Bootcamp
 
 The files in this repository were used to configure the network depicted below.
 
-[![RED TEAM RG.PNG](https://github.com/scruhttps://github.com/scruzy666/ELK-Project/blob/main/Images/RED%20TEAM%20RG.PNGzy666/ELK-Project/blob/main/Images/RED%20TEAM%20RG.PNG "RED TEAM RG.PNG")](https://github.com/scruzy666/ELK-Project/blob/main/Images/RED%20TEAM%20RG.PNG "RED TEAM RG.PNG")
+[![RED TEAM RG.PNG](https://github.com/scruzy666/ELK-Project/blob/main/Images/RED%20TEAM%20RG.PNGzy666/ELK-Project/blob/main/Images/RED%20TEAM%20RG.PNG "RED TEAM RG.PNG")](https://github.com/scruzy666/ELK-Project/blob/main/Images/RED%20TEAM%20RG.PNG "RED TEAM RG.PNG")
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
